@@ -1,3 +1,6 @@
+
+# calcular area figura geométrica
+
 import math
 
 def calcular_area_circulo(raio):
